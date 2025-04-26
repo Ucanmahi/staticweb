@@ -1,0 +1,3 @@
+this is ReadMe text file which is project report of Static Web project
+now i have added some text here 
+ 
