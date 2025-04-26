@@ -9,4 +9,7 @@ sum_of_digits()
 
 
 def multiple(a,b) :
-	print(a*b)	 
+	print(a*b)
+
+def sub(a,b):
+	print(a-b)
