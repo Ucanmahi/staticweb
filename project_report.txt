@@ -6,4 +6,7 @@ def sum_of_digits(a,b):
 
 
 sum_of_digits() 
-	 
+
+
+def multiple(a,b) :
+	print(a*b)	 
